@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "http-localhost-9000",
+        "projectKey": "Loganf92_sonar-scanning-examples_7b1f34ca-b53e-4aa8-958e-fb7db3b00987"
+    }
+}
